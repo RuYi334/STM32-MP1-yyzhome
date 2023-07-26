@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.jpg</file>
+        <file>ikun.jpg</file>
+        <file>IKUN.jpg</file>
+        <file>source/bjtp1.jpg</file>
+        <file>source/bjtp2.jpg</file>
+        <file>source/ikun1.jpg</file>
+        <file>source/按钮-关.png</file>
+        <file>source/按钮-开.png</file>
+        <file>source/返回.png</file>
+        <file>source/夜灯.png</file>
+        <file>source/返回1.png</file>
+        <file>source/灯光.png</file>
+        <file>source/环境.png</file>
+        <file>source/监控.png</file>
+        <file>source/空调.png</file>
+        <file>source/设置.png</file>
+        <file>source/退出.png</file>
+        <file>source/登录.png</file>
+        <file>source/确定.png</file>
+        <file>source/修改密码.png</file>
+        <file>source/注册.png</file>
+        <file>source/安全.gif</file>
+        <file>source/危险.gif</file>
+        <file>source/安全.png</file>
+        <file>source/警告.png</file>
+        <file>二维码.png</file>
+        <file>home.png</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+    </qresource>
+</RCC>
